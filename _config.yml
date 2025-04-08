@@ -1,5 +1,11 @@
-title: MAhmoud Mousa
-#logo: /assets/img/headshot_circle.png
-#description: Data Analyst
-#show_downloads: true
+title: Mahmoud Mousa
+logo: /assets/img/headshot_circle.png  # Add this image if you want a personal logo or headshot
+description: >
+  Data Analyst | Digital Marketing Specialist | Data-Driven Thinker  
+  Based in Krakow, Poland – Experienced in Google Analytics, SQL, Python, Power BI, and more.
+show_downloads: false
 theme: jekyll-theme-minimal
+
+# Optional social links (uncomment if using)
+# github_username: Saadm1811
+# linkedin_username: your-linkedin-username
