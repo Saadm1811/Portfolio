@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmoud Mousa
+# Mahmoud Mousa
 
 🎯 **Data Analyst | Digital Marketing Specialist | Data-Driven Thinker**  
 📍 Krakow, Poland  
