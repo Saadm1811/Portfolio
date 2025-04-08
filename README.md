@@ -1,6 +1,6 @@
 # Mahmoud Mousa
 
-🎯 **Data Analyst | Digital Marketing Specialist | Data-Driven Thinker**  
+🎯 **Data Analyst**  
 📍 Krakow, Poland  
 📧 [saadm1811@gmail.com](mailto:saadm1811@gmail.com)  
 🔗 [Portfolio on GitHub](https://github.com/Saadm1811/Portfolio)  
