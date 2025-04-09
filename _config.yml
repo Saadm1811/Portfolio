@@ -1,3 +1,5 @@
+
+
 title: Mahmoud Mousa
 ##logo: IMG_0130/headshot_circle.jpeg  # Add this image if you want a personal logo or headshot
 description: >
@@ -9,3 +11,8 @@ theme: jekyll-theme-minimal
 # Optional social links (uncomment if using)
 # github_username: Saadm1811
 # linkedin_username: your-linkedin-username
+
+# Custom navigation links
+nav:
+  - title: Projects
+    url: https://github.com/mmousaa/Projects
